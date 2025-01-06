@@ -1,1 +1,7 @@
 myenv
+
+.idea
+.ipynb_checkpoints
+*.keras
+*.pkl
+*.tsv
